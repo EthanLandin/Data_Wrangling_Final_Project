@@ -45,3 +45,6 @@ The 2 main folders in this repository are "Data" and "Mid Program Saves"
 | Market Cap Size       | object   | Derived                 | Categorical variable: Small Cap (<300M), Mid Cap (300M–2B), Large Cap (>2B).                    |
 | Success_Q2            | int64    | Derived                 | Binary indicator: 1 if Return_1Y_pct > 0, otherwise 0.                                          |
 
+## Important Note:
+This program uses a lot of yfinance requests and might lead to a rate limit, if needed run from checkpoint 4 to get around this issue, this will skip the scraping and use the csv file that is created after all scraping is complete
+
