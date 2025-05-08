@@ -10,13 +10,12 @@ The 3 main folders in this repository are Data, Mid-Program Files, and Python Co
 | File Name | Description |
 | ------ | ------ |
 | company_ipo.csv | [initial IPO data] from Kaggle.com |
-| stock_overview_scraped.csv | Initial data with new scraped columns included |
-| ipo_data_2019_2021_cleaned.csv | First data save, after scraping updated prices |
-| merged_ipo_cleaned1.csv | save after cleaning first columns of data |
-| merged_ipo_cleaned2.csv | Save after scraping yfinance data for market cap |
-| Final_ipo_data_cleaned.csv | Save after converting numbers into millions |
-| Project_Part_2_Data.csv | Save after finishing part 2 of the project (current last save) |
-| Project_Landin.ipynb | Python code for the project |
+| Final_Project_New.ipynb | Jupyter notebook file with project code in it |
+| IPO_Data_1.csv | First mid-code save |
+| IPO_Data_2.csv | Second mid-code save |
+| IPO_Data_3.csv | Third mid-code save |
+| IPO_Data_4.csv | Fourth mid-code save |
+| Project_Data_Final.csv | Final csv file |
 
 
 [initial IPO data]: <https://www.kaggle.com/datasets/shivamb/company-ipos-2019-2021>
