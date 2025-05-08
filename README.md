@@ -4,13 +4,15 @@
 The 2 main folders in this repository are "Data" and "Mid Program Saves"
  - Data contains the initial data for the analysis
  - Mid Program Saves contains all saves throughout the project (including final csv file)
- - Addionally, Python code is in file Final_Project_New.ipynb
+ - Python code is in file Final_Project_New.ipynb
+ - Final Report is in file "Final Report - ELandin.pdf"
 
 # File Names and Descriptions
 | File Name | Description |
 | ------ | ------ |
 | company_ipo.csv | [initial IPO data] from Kaggle.com |
 | Final_Project_New.ipynb | Jupyter notebook file with project code in it |
+| Final Report - ELandin.pdf | Final report over findings |
 | IPO_Data_1.csv | First mid-code save |
 | IPO_Data_2.csv | Second mid-code save |
 | IPO_Data_3.csv | Third mid-code save |
