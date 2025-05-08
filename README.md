@@ -1,10 +1,10 @@
 # 3250-Final-Project
 ### Final project for Data wrangling class
 
-The 2 main folders in this repository are Data and Mid-Program Saves
- - Data contains the initial data for the analysis, and 1 midround save after all scraping has been completed
- - Mid-Program files contains all csv saves throughout the python program
- - Python Code contains the .ipynb file with the actual project code in it
+The 2 main folders in this repository are "Data" and "Mid Program Saves"
+ - Data contains the initial data for the analysis
+ - Mid Program Saves contains all saves throughout the project (including final csv file)
+ - Addionally, Python code is in file Final_Project_New.ipynb
 
 # File Names and Descriptions
 | File Name | Description |
